@@ -1,0 +1,6 @@
+[submodule "samples"]
+	path = samples
+	url = https://github.com/zerovm/zerovm-samples
+[submodule "ports"]
+	path = ports
+	url = https://github.com/zerovm/zerovm-ports
